@@ -105,3 +105,6 @@ dist
 
 # VS Code configuration
 .vscode/
+
+# Temp Folder
+tmp/
