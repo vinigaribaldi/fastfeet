@@ -7,6 +7,6 @@ export default {
     pass: 'abe763ca449c0e',
   },
   default: {
-    from: 'Equipe FastFeet <noreply@fastfeet.com>',
+    from: 'FastFeet Team <noreply@fastfeet.com>',
   },
 };
